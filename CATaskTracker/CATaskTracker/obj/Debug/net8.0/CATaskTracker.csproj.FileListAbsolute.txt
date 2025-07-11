@@ -1,0 +1,14 @@
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\bin\Debug\net8.0\CATaskTracker.exe
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\bin\Debug\net8.0\CATaskTracker.deps.json
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\bin\Debug\net8.0\CATaskTracker.runtimeconfig.json
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\bin\Debug\net8.0\CATaskTracker.dll
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\bin\Debug\net8.0\CATaskTracker.pdb
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.AssemblyInfoInputs.cache
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.AssemblyInfo.cs
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.csproj.CoreCompileInputs.cache
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.dll
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\refint\CATaskTracker.dll
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.pdb
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\CATaskTracker.genruntimeconfig.cache
+D:\advancing_C#\CAProjects\CATaskTracker\CATaskTracker\obj\Debug\net8.0\ref\CATaskTracker.dll

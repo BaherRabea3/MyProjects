@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\libraryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|d:\\advancing_c#\\caprojects\\calibrarymanagementsystem\\calibrarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6761D82A-8F03-49AA-8BF5-9BE3E5484778}|CALibraryManagementSystem\\CALibraryManagementSystem.csproj|solutionrelative:calibrarymanagementsystem\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\Book.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\Book.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\Book.cs",
+              "RelativeToolTip": "CALibraryManagementSystem\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:05:03.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "librarian.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\librarian.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\librarian.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\librarian.cs",
+              "RelativeToolTip": "CALibraryManagementSystem\\librarian.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:04:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryUser.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\LibraryUser.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\LibraryUser.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\LibraryUser.cs",
+              "RelativeToolTip": "CALibraryManagementSystem\\LibraryUser.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:55:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\User.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\User.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\User.cs",
+              "RelativeToolTip": "CALibraryManagementSystem\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:55:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "CALibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:35:19.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrarySystem.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\LibrarySystem.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\LibrarySystem.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\LibrarySystem.cs*",
+              "RelativeToolTip": "CALibraryManagementSystem\\LibrarySystem.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:05:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "CALibraryManagementSystem\\LibraryCard.cs",
+              "ToolTip": "D:\\advancing_C#\\CAProjects\\CALibraryManagementSystem\\CALibraryManagementSystem\\LibraryCard.cs",
+              "RelativeToolTip": "CALibraryManagementSystem\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:09:08.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

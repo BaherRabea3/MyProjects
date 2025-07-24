@@ -1,0 +1,14 @@
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.AssemblyInfoInputs.cache
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.AssemblyInfo.cs
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\bin\Debug\net8.0\CALibraryManagementSystem.exe
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\bin\Debug\net8.0\CALibraryManagementSystem.deps.json
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\bin\Debug\net8.0\CALibraryManagementSystem.runtimeconfig.json
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\bin\Debug\net8.0\CALibraryManagementSystem.dll
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\bin\Debug\net8.0\CALibraryManagementSystem.pdb
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.dll
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\refint\CALibraryManagementSystem.dll
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.pdb
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\CALibraryManagementSystem.genruntimeconfig.cache
+D:\advancing_C#\CAProjects\CALibraryManagementSystem\CALibraryManagementSystem\obj\Debug\net8.0\ref\CALibraryManagementSystem.dll

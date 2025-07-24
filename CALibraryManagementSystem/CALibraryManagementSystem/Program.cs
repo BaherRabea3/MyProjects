@@ -45,10 +45,10 @@
                         Librarian librarian = new Librarian(librarianId, librarianName, library);
                         Console.WriteLine("Do you want add,remove or display books ?(a,r,d)");
                         Console.Write(">> ");
-                        char opr = char.Parse(Console.ReadLine());
+                        char opr = char.Parse(Console.ReadLine().ToLower());
                         switch (opr)
                         {
-                            case 'a':
+                            case 'u':
                                 Console.WriteLine("Enter a book you want to add(title and author name)");
                                 Console.Write(">> ");
                                 title = Console.ReadLine();
